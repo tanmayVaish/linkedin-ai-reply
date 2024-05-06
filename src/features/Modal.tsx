@@ -1,10 +1,7 @@
 import { useEffect, useState } from "react"
 
-// @ts-ignore
 import DownIcon from "../../assets/down.svg"
-// @ts-ignore
 import ReIcon from "../../assets/re.svg"
-// @ts-ignore
 import GenerateIcon from "../../assets/Vector.svg"
 
 interface ChatInterface {

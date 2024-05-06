@@ -4,7 +4,6 @@ import { useEffect, useRef, useState } from "react"
 
 import { Modal } from "~features/Modal"
 
-// @ts-ignore
 import iconUrl from "../assets/Frame.svg"
 
 // Define types for the props passed to Modal component
