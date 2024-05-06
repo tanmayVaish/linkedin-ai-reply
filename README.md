@@ -2,6 +2,10 @@
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
+## Demo Video
+
+https://github.com/tanmayVaish/linkedin-ai-reply/assets/55585498/d553ea90-1d21-420b-83f6-55f5523d2bd4
+
 ## Getting Started
 
 First, run the development server:
@@ -33,3 +37,6 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+
+
+
